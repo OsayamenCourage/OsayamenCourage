@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Osayamen!
 
-<!--
-**OsayamenCourage/OsayamenCourage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space — where curiosity meets code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer and lifelong learner who enjoys building things that make life easier, smarter, or just more fun. Whether it's a sleek web app, a clever automation script, or a data-driven insight, I love turning ideas into reality through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on: Websit with HTML|JS|CSS
+- 🌱 Learning: More languages and how they work
+- 💬 Ask me about: JavaScript, Git, VS Code, or anything tech-related
+- 📫 How to reach me: osayamencoding@outlook.com
+- ⚡ Fun fact: “Code is like humor. When you have to explain it, it’s bad.”
+
+## 🛠️ Tech Stack
+```bash
+Languages: JavaScript | Python | HTML/CSS
+Frameworks: React | Node.js | Express
+Tools: Git | VS Code | Postman | Figma
+
